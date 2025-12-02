@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Somewhere",
+  "base_artist": "tiny yawn",
+  "createdAt": "2025-12-02T07:02:46.806826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere Cool With You",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/01_Somewhere_Cool_With_You_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somewhere In My Car",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_Somewhere_In_My_Car_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somewhere In My Car",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/03_Somewhere_In_My_Car_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somewhere Over the Rainbow / What a Wonderful World",
+      "artist": "Robin Schulz feat. Alle Farben & Israel Kamakawiwo'ole",
+      "has_synced": true,
+      "path": "select/04_Somewhere_Over_the_Rainbow___What_a_Wonderful_World_Robin_Schulz_feat._Alle_Farben_&_Israel_Kamakawiwo'ole.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever's Gotta Start Somewhere",
+      "artist": "Chad Brownlee",
+      "has_synced": true,
+      "path": "select/05_Forever's_Gotta_Start_Somewhere_Chad_Brownlee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In a Field Somewhere",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/06_In_a_Field_Somewhere_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's Five O' Clock Somewhere",
+      "artist": "Alan Jackson & Jimmy Buffet",
+      "has_synced": true,
+      "path": "select/07_It's_Five_O'_Clock_Somewhere_Alan_Jackson_&_Jimmy_Buffet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Five O'Clock Somewhere",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/08_It's_Five_O'Clock_Somewhere_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Middle of Somewhere",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/09_Middle_of_Somewhere_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "On the Coast of Somewhere Beautiful",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/10_On_the_Coast_of_Somewhere_Beautiful_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somebody Somewhere (Don't Know What He's Missin' Tonight) - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/11_Somebody_Somewhere_(Don't_Know_What_He's_Missin'_Tonight)_-_Single_Version_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somewhere Between Right and Wrong",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/12_Somewhere_Between_Right_and_Wrong_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somewhere On A Beach",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/13_Somewhere_On_A_Beach_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somewhere With You",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/14_Somewhere_With_You_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somewhere a Star Shines for Everyone",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/15_Somewhere_a_Star_Shines_for_Everyone_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somewhere",
+      "artist": "tiny yawn",
+      "has_synced": false,
+      "path": "select/pl_01_Somewhere_tiny_yawn.txt"
+    }
+  ]
+}
